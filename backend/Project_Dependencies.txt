@@ -1,0 +1,14 @@
+npm i ws
+
+npm i @types/ws
+
+// to compile
+tsc -b
+
+// to start server
+node dist/index.js
+
+
+npm u chess
+
+npm i chess.js
